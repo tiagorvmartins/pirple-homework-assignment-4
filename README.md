@@ -254,14 +254,16 @@ Example of a order in which both payment and email were sent with success:
 
 ## CLI Available Commands
 
-### exit > Kill the CLI (and the rest of the application).
-### man > Show this help page.
-### help > Alias of the "man" command.
-### show menu > Show all the current menu items.
-### show orders > Show all the recent orders in the system (placed in the last 24h).
-### more order info --{orderId} > Show details of a specific order.
-### show users > Show all the users who have signed up in the last 24h.
-### more user info --{emailAddress} > Show details of a specific user by email address.
+#### exit > Kill the CLI (and the rest of the application).
+#### man > Show this help page.
+#### help > Alias of the "man" command.
+#### show menu > Show all the current menu items.
+#### show orders > Show all the recent orders in the system (placed in the last 24h).
+#### more order info --{orderId} > Show details of a specific order.
+#### show users > Show all the users who have signed up in the last 24h.
+#### more user info --{emailAddress} > Show details of a specific user by email address.
+
+
 
 
 
